@@ -1,0 +1,28 @@
+
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+
+# Flask
+instance/
+*.db
+
+# Node
+node_modules/
+dist/
+build/
+.vite/
+
+# Logs
+*.log
+
+# React
+.env.local
+.env.development
+.env.production
